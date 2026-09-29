@@ -125,10 +125,4 @@ Through this project, I practiced:
 - Add customer retention and repeat-purchase metrics.
 - Incorporate profitability indicators.
 
----
 
-## 📎 Project File
-
-The complete interactive Excel dashboard is available in:
-
-**`Proyecto_Dashboard.xlsx`**
